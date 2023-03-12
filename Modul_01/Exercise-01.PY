@@ -1,0 +1,11 @@
+#TUGAS PRAKTIKUM PROKOM EXERCISE-01
+A = ("Muhammad Yusuf Habibie")
+B = ("I0322087")
+C = ("Rindang, dekat masjid, banyak pepohonan, dan dekat dengan jalan raya ")
+D = ("Memberikan kebermanfaatan untuk orang lain dan bisa bekerja di sektor pertambangan dengan posisi yang diinginkan") 
+print()
+print("Nama = ", A)
+print("NIM = ", B)
+print("Visualisasi kampung halaman = ", C)
+print("Harapan sebagai lulusan TI = ", D)
+print("=========selesai=========")
